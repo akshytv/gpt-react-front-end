@@ -2,3 +2,6 @@ you need to follow these instructions before deploying
 1- register in hostinger
 2- choose a plan
 3- host the website
+4-
+5-
+6-
